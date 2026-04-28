@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id=";`uEbL(_%f^,5!dSOrE`">ch</variable><variable id="3=bNl^W;p#R`{lA#zIv,">busy</variable><variable id="q$.sSxlTBAu$Yn=b(z!k">state</variable><variable id="(oBPQ[qLbOB4]{]dKrl(">MOTOR_TIME</variable><variable id="MwL!JFXH%Nn[sUkH$uTy">logo_start</variable><variable id="`.Noh4?K(w,)$cltEOo@">duration</variable><variable id="5-KRyU-cToO-)7/qWZ5;">msg</variable></variables><comment id="kjJkb}wp(KB}VqNO%bkL" x="1089" y="1291" w="180" h="120">
+------------------
+</comment><comment id="#Xm`qi7g$hEqr]elV#U$" x="559" y="1291" w="260" h="120">
+LOGO LONG PRESS = DECREASE
+</comment><comment id="HZ(mI$YDn[UzjeM,3!^~" x="864" y="1291" w="180" h="120">
+------------------
+</comment></xml>
